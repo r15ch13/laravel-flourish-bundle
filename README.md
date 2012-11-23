@@ -1,11 +1,8 @@
-## flourish Bundle for Laravel
+# flourish Bundle for Laravel
 
-**About**
+This bundle provides you your beloved flourish classes. Thanks goes to [wbond](http://flourishlib.com/).
 
-This bundle provides you your beloved flourish classes.
-
-
-### Installation
+## Installation
 
 Install with artisan
 
