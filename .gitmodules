@@ -1,0 +1,3 @@
+[submodule "flourish-classes"]
+	path = flourish-classes
+	url = https://github.com/flourishlib/flourish-classes.git
